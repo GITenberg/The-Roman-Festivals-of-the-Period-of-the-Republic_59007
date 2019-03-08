@@ -1,0 +1,26 @@
+_repo: The-Roman-Festivals-of-the-Period-of-the-Republic_59007
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fowler, W. Warde (William Warde)
+    aliases:
+    - Fowler, William Warde
+    - Fowler, Warde
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '3907'
+    url: http://www.gutenberg.org/2009/agents/3907
+    wikipedia: https://en.wikipedia.org/wiki/William_Warde_Fowler
+description: ''
+gutenberg_issued: '2019-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Roman Festivals of the Period of the Republic
+url: http://www.gutenberg.org/ebooks/59007
